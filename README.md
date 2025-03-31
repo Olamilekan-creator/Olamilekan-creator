@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olamilekan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olamilekan Akinlusi
 ===========================================================================================================================================
 
 Frontend Developer
@@ -7,7 +7,7 @@ Frontend Developer
 Passionate frontend developer with a strong IT foundation, focused on building interactive and user-friendly web applications. Continuously learning modern technologies to enhance digital experiences.
 
 * 🌍  I'm based in the United States.
-* ✉️  You can contact me at [olamilekan.akinlusi@icloud.com](mailto:oakinlusi2012@gmail.com)
+* ✉️  You can contact me at [oakinlusi2012@gmail.com](mailto:oakinlusi2012@gmail.com)
 * ⚡  I'm an optimistic and passionate individual, driven by my expertise.
 
 ### Skills
