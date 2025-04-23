@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olamilekan
 ==================================================================================================================================
 
-Frontend Developer
+Software Engineer
 ------------------
 
-Passionate frontend developer with a strong IT foundation, focused on building interactive and user-friendly web applications. Continuously learning modern technologies to enhance digital experiences.
+Passionate software engineer with a strong IT foundation, focused on building interactive and user-friendly web applications. Continuously learning modern technologies to enhance digital experiences.
 
 * 🌍  I'm based in the United States.
 * ✉️  You can contact me at [olamilekan.akinlusi@icloud.com](mailto:olamilekan.akinlusi@icloud.com)
-* 🧠  I'm learning a new framework
+* 🧠  I'm learning backend
 * ⚡  I'm an optimistic and passionate individual, driven by my expertise.
 
 ### Skills
