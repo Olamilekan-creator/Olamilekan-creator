@@ -7,7 +7,7 @@ Frontend Developer
 Passionate frontend developer with a strong IT foundation, focused on building interactive and user-friendly web applications. Continuously learning modern technologies to enhance digital experiences.
 
 * 🌍  I'm based in the United States.
-* ✉️  You can contact me at [oakinlusi2012@gmail.com](mailto:oakinlusi2012@gmail.com)
+* ✉️  You can contact me at [olamilekan.akinlusi@icloud.com](mailto:olamilekan.akinlusi@icloud.com)
 * 🧠  I'm learning a new framework
 * ⚡  I'm an optimistic and passionate individual, driven by my expertise.
 
